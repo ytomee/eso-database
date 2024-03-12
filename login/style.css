@@ -9,6 +9,8 @@
 
 body {
     background-image: url(background.jpeg);
+    background-position: center;
+    background-size: cover;
     font-family: Poppins;
 }
 
